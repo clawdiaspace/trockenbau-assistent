@@ -15,3 +15,4 @@ Interaktive Schritt-für-Schritt Bauanleitung für drei Trockenbau-Metallstände
 
 ## Nutzung
 `index.html` im Browser öffnen — läuft ohne Server.
+
